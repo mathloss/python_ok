@@ -2,6 +2,11 @@ from tkinter import *
 # import nécessaires pour les images:
 from PIL import ImageTk, Image
 
+# Amelioration du code de la calculatrice
+# Fait par Mathloss
+# 2021
+
+
 root = Tk()
 # root.iconbitmap('C:/Users/eriol/Desktop/gui_tkinter/ressources/math.ico')
 root.title("Calculatrice")
